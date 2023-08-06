@@ -8,8 +8,8 @@ I'm Adrian Beria a Senior Full Stack Web Developer with 8 years of experience wh
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at [@Memorable AI](https://www.memorableai.com/)
-- :computer: I work currently as a Senior Lead Frontend Developer.
+- 🔭 I’m currently looking for a job
+- :computer: I'm a Senior Lead Frontend Developer.
 - 🤔 I’m always looking for interesting technologies and helping connect people.
 - 📫 How to reach me: adrberia@gmail.com.
 - 😄 Pronouns: Adrian or Radinax.
