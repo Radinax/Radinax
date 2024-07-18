@@ -12,11 +12,11 @@ I'm Adrian Beria a Senior Full Stack Web Developer with 8 years of experience wh
 - :computer: I'm a Senior Lead Frontend Developer.
 - 🤔 I’m always looking for interesting technologies and helping connect people.
 - 📫 How to reach me: adrberia@gmail.com.
-- 😄 Pronouns: Adrian or Radinax.
 - ⚡ Fun fact 1: I'm an Electric Engineer.
 - ⚡ Fun fact 2: I teached Electromagnetic Physics to Engineering students for four years.
 - ⚡ Fun fact 3: I play JRPGs.
 - ⚡ Fun fact 4: I go to the gym daily.
+- ⚡ Fun fact 5: I make secret SAAS projects! Maybe one will be a success
 
 #### Top Technologies
 
@@ -30,34 +30,33 @@ Usually work with Dashboards so I prefer CSR:
 
 - React
 - Typescript
-- Tailwind
+- Tailwind (Shadcn UI)
 - React Query
-- GraphQL (Apollo Client)
 - Zustand
 - Vite
 - React Testing Library
-- Cypress
+- Playwright
+- React Hook Forms
+- Zod
+- Bun
 
 For Backend:
 
 - NodeJS
 - Typescript
-- MySQL
-- TypeORM
-- GraphQL (Apollo)
+- SQLite
+- DrizzleORM
+- Bun
+- Hono
 
-#### What I want to learn in 2023:
+#### What I want to learn and do in 2024-2025:
 
-- NextJS 13
-- Remix
-- TRCP
-- Tanstack Router (react router on steroids)
+- Build many SAAS
+- .NET
 - Golang
-- Rust
-- System Design
-- Software Architecture Design
+- Web3
 
 #### CV and mail
-- :paperclip: [CV](https://www.linkedin.com/in/adrianberia2013/overlay/1635478916771/single-media-viewer?type=DOCUMENT&profileId=ACoAAAXEylIB8j4FB-gX1otOzNvAc-MRIHyRTSk&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByTiS%2F8TlR62S5am%2BpgjR1A%3D%3D)
-- :paperclip: [Resume](https://www.linkedin.com/in/adrianberia2013/overlay/1635478914781/single-media-viewer?type=DOCUMENT&profileId=ACoAAAXEylIB8j4FB-gX1otOzNvAc-MRIHyRTSk&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BdnFxP373TgSC3Yn2hxiS7Q%3D%3D)
+- :paperclip: [Resume](https://www.linkedin.com/in/adrianberia2013/overlay/1717698106033/single-media-viewer/?profileId=ACoAAAXEylIB8j4FB-gX1otOzNvAc-MRIHyRTSk)
 - :email: adrberia@gmail.com
+- Blog: https://adrian-beria-blog.netlify.app/
