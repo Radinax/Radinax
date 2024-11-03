@@ -59,6 +59,7 @@ For Backend:
 #### Profesional experience
 
 **MEMORABLE AI: Senior Frontend Engineer**
+
 **Stack**: React, Typescript, Tailwind, Node, PostgreSQL, GraphQL, Vite, Next JS
 -	Promoted to team leader for Frontend team after 4 months.
 -	Made a dashboard with real-time capabilities with consistent metrics derived from an in-house Machine Learning AI model targeted towards advertisement businesses.
@@ -69,6 +70,7 @@ For Backend:
 
 ___
 **VASCAR SOLUTIONS: Senior Frontend Engineer**
+
 **Stack**: React, Redux Toolkit, Typescript, Tailwind, Go, PostgreSQL, GraphQL
 -	Promoted to team leader for Frontend team after 2 months.
 -	Developed a dashboard (https://www.capnote.com/) that uses AI-powered ecosystem for finance businesses to generate insights through tables (React Table), maps (Leaflet), charts (Recharts), notification system, real time communication (Web Sockets), custom calendar system feature for events where users can create new ones and invite people.
@@ -78,22 +80,25 @@ ___
 
 ___
 **TECNO MAKERS SAS: SSR Frontend Engineer**
+
 **Stack**: React, Redux, Javascript, Styled Components, Node, Storybook
 -	Developed a website for the Property Brothers of Discovery Channel which combined their social media into one space so fans interacted with each other.
 -	Developed React components and new sections for Discovery Channel main website.
 ___
 **INNOVATIVE ALGORITHMS: Frontend Engineer**
+
 **Stack**: React, Redux, Typescript, Bootstrap, Node, Storybook, PostgreSQL
 -	Developed a dashboard from scratch focused on guiding users through purchasing a product and have control of its locations and corresponding metrics through maps (Google Maps), tables (React Table) and charts (Recharts).
 -	Developed a reuseable smart table component where users could create, edit, delete, search, sort, filter, for numerous items in it performing async operations.
 
 ___
 **FREELANCE: Frontend Web Developer**
+
 **Stack**: HTML, CSS, Javascript, jQuery, PHP
 -	Developed website (http://www.domoviz.com/) where we created a CMS for the client to upload their own images and manipulate the text in the site.
 
 ___
-UNEXPO (UNIVERSITY): Professor at Engineering University
+**UNEXPO (UNIVERSITY): Professor at Engineering University**
 -	Gave theoretical Mechanical and Electromagnetic Physics classes.
 
 #### CV and mail
