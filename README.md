@@ -102,6 +102,6 @@ ___
 -	Gave theoretical Mechanical and Electromagnetic Physics classes.
 
 #### CV and mail
-- :paperclip: [Resume](https://www.linkedin.com/in/adrianberia2013/overlay/1717698106033/single-media-viewer/?profileId=ACoAAAXEylIB8j4FB-gX1otOzNvAc-MRIHyRTSk)
+- :paperclip: [Resume](https://www.linkedin.com/in/adrianberia2013/overlay/1730517712899/single-media-viewer/?profileId=ACoAAAXEylIB8j4FB-gX1otOzNvAc-MRIHyRTSk)
 - :email: adrberia@gmail.com
 - Blog: https://adrian-beria-blog.netlify.app/
