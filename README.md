@@ -17,6 +17,7 @@ I'm Adrian Beria a Senior Full Stack Web Developer with 8 years of experience wh
 - ⚡ Fun fact 3: I play JRPGs.
 - ⚡ Fun fact 4: I go to the gym daily.
 - ⚡ Fun fact 5: I make secret SAAS projects! Maybe one will be a success
+- ⚡ Fun fact 6: I make AI projects and content
 
 #### Top Technologies
 
@@ -49,12 +50,10 @@ For Backend:
 - Bun
 - Hono
 
-#### What I want to learn and do in 2024-2025:
+#### What I want to learn and do in 2025:
 
-- Build many SAAS
-- .NET
-- Golang
-- Web3
+- Learn AI and Build AI empowered products
+- Learn AI: Tensor Flow, Pytorch, LLM, Vercel AI
 
 #### Profesional experience
 
