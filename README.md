@@ -6,26 +6,18 @@ I'm Adrian Beria a Senior Full Stack Web Developer with 8 years of experience wh
 
 [![Twitter Badge](https://img.shields.io/badge/-@adrberia-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adrberia)](https://twitter.com/adrberia) [![Linkedin Badge](https://img.shields.io/badge/-adrberia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianberia2013/)
 
-<!-- TODO: Add last video link -->
-
 - 🔭 I’m currently looking for a job
 - :computer: I'm a Senior Lead Frontend Developer.
 - 🤔 I’m always looking for interesting technologies and helping connect people.
-- 📫 How to reach me: adrberia@gmail.com.
-- ⚡ Fun fact 1: I'm an Electric Engineer.
-- ⚡ Fun fact 2: I teached Electromagnetic Physics to Engineering students for four years.
-- ⚡ Fun fact 3: I play JRPGs.
-- ⚡ Fun fact 4: I go to the gym daily.
-- ⚡ Fun fact 5: I make secret SAAS projects! Maybe one will be a success
-- ⚡ Fun fact 6: I make AI projects and content
+- 📫 How to reach me: adrberia@gmail.com
 
-#### Top Technologies
+<h2 align="center">Top technologies</h2>
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-#### My current prefered stack:
+<h2 align="center">My Current Prefered Stack</h2>
 
 Usually work with Dashboards so I prefer CSR:
 
@@ -50,12 +42,19 @@ For Backend:
 - Bun
 - Hono
 
-#### What I want to learn and do in 2025:
+<h2 align="center">My Stats</h2>
 
-- Learn AI and Build AI empowered products
-- Learn AI: Tensor Flow, Pytorch, LLM, Vercel AI
+<p align="center">
+    <a href="https://github.com/maxwellnewage">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=radinax&langs_count=10"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/maxwellnewage">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=radinax&show_icons=true"/>
+    </a>
+</p>
 
-#### Profesional experience
+<h2 align="center">Profesional Experience</h2>
 
 **Freelance: Senior Fullstack Engineer**
 
