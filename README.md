@@ -1,57 +1,33 @@
 ## Hi I'm Adrian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Adrian Beria a Senior Full Stack Web Developer with 8 years of experience who enjoys nice challenges and becomes better everyday.
+I'm Adrian Beria a Senior Frontend Web Developer with 8 years of experience who enjoys nice challenges and becomes better everyday. My stack of choice is React, Typescript, Tailwind, Zustand, React Query, Zod, Playwright, Jest, Vite, React Hook Forms, SQLite, Node, Drizzle, Bun and RTL.
 
-:mailbox: Reach me out!
+<h3>👨🏻‍💻 Fun facts about me</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@adrberia-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adrberia)](https://twitter.com/adrberia) [![Linkedin Badge](https://img.shields.io/badge/-adrberia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianberia2013/)
-
-- 🔭 I’m currently looking for a job
-- :computer: I'm a Senior Lead Frontend Developer.
-- 🤔 I’m always looking for interesting technologies and helping connect people.
+- 💡 I like to explore new technologies and develop software solutions and quick hacks
+- 🎓 I'm an Electrical Engineer
+- :computer: I'm a Senior Lead Frontend Developer
+- 🌱 I was a Physics Professor who gave Electromagnetic and Mechanical Physics in an Engineering University for 4 years
 - 📫 How to reach me: adrberia@gmail.com
+  
+<h3>🏆 GitHub Trophies</h3>
+
+  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=Radinax&theme=monokai&no-frame=true&margin-w=4&title=-Issues&title=-PullRequest&title=-Reviews)](#)
 
 <h2 align="center">Top technologies</h2>
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
-<h2 align="center">My Current Prefered Stack</h2>
-
-Usually work with Dashboards so I prefer CSR:
-
-- React
-- Typescript
-- Tailwind (Shadcn UI)
-- React Query
-- Zustand
-- Vite
-- React Testing Library
-- Playwright
-- React Hook Forms
-- Zod
-- Bun
-
-For Backend:
-
-- NodeJS
-- Typescript
-- SQLite
-- DrizzleORM
-- Bun
-- Hono
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
 <h2 align="center">My Stats</h2>
 
 <p align="center">
-    <a href="https://github.com/maxwellnewage">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=radinax&langs_count=10"/>
+    <a href="https://github.com/radinax">
+        <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=radinax&show_icons=true"/>
+        <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=radinax&langs_count=10"/>
     </a>
-    &nbsp;
-    <a href="https://github.com/maxwellnewage">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=radinax&show_icons=true"/>
-    </a>
+</p>
+<p align="center">
+    <img height="180em" align="center" src="https://streak-stats.demolab.com?user=Radinax&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467" />
 </p>
 
 <h2 align="center">Profesional Experience</h2>
@@ -98,7 +74,9 @@ ___
 **UNEXPO (UNIVERSITY): Professor at Engineering University**
 -	Gave theoretical Mechanical and Electromagnetic Physics classes.
 
-#### CV and mail
-- :paperclip: [Resume](https://www.linkedin.com/in/adrianberia2013/overlay/1730517712899/single-media-viewer/?profileId=ACoAAAXEylIB8j4FB-gX1otOzNvAc-MRIHyRTSk)
-- :email: adrberia@gmail.com
-- Blog: https://adrian-beria-blog.netlify.app/
+<h2>:mailbox: Reach me out!</h2>
+
+<p><a href="https://github.com/Radinax" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/adrberia" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/adrianberia2013" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://adrian-beria-blog.netlify.app/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a><a href="mailto:adrberia@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+- :paperclip: [Resume](https://www.linkedin.com/in/adrianberia2013/overlay/1745031208377/single-media-viewer/?profileId=ACoAAAXEylIB8j4FB-gX1otOzNvAc-MRIHyRTSk)
