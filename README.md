@@ -10,10 +10,7 @@ I'm Adrian Beria a Senior Frontend Web Developer with **10 years of experience**
 - 🌱 I was a Physics Professor who gave Electromagnetic and Mechanical Physics in an Engineering University for 4 years
 - 📫 How to reach me: [adrberia@gmail.com](mailto:adrberia@gmail.com)
 - 🌐 Check my website: [https://adrian-beria-website.vercel.app/](https://adrian-beria-website.vercel.app/)
-  
-<h3>🏆 GitHub Trophies</h3>
 
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=Radinax&theme=monokai&no-frame=true&margin-w=4&title=-Issues&title=-PullRequest&title=-Reviews)](#)
 
 <h2 align="center">Top technologies</h2>
 
@@ -32,6 +29,40 @@ I'm Adrian Beria a Senior Frontend Web Developer with **10 years of experience**
 </p>
 
 <h2 align="center">Profesional Experience</h2>
+
+**AGILITY ADS: Senior Frontend Engineer** (2023-2025)
+
+**Stack**: React, Typescript, Tailwind, Shadcn, Golang, AI Workflows, Claude Code, MCP, Vite
+
+Working on the frontend development for Agility Ads’ enterprise advertising platform, delivering 35+ production features and contributing 14,000+ lines of production code across core product areas.
+
+𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 & 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬
+
+- Built interactive forecasting dashboards with custom Recharts visualizations
+- Developed Excel-style spreadsheet interface with advanced table operations
+- Implemented real-time scenario modeling, sorting/filtering, and UX controls for financial planning
+
+𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦
+
+- Architected end-to-end creative brief workflow with AI-assisted content generation
+- Built intelligent multi-format image resizing and dynamic asset preview systems
+- Implemented PDF export capabilities and migrated UI schema for multi-channel creative support
+
+𝐆𝐞𝐨𝐟𝐞𝐧𝐜𝐢𝐧𝐠 & 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧 𝐓𝐨𝐨𝐥𝐬
+
+- Developed interactive geofencing interface with multi-shape editing and batch management
+- Integrated Google Maps API for location search, targeting constraints, and map-based workflows
+- Persona & Campaign Features
+- Built contextual ad preview experiences across user journeys
+- Developed persona targeting tools, value-prop selectors, and creative collection management flows
+
+𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐈𝐦𝐩𝐚𝐜𝐭
+
+- React 19, TypeScript, TanStack Router, SWR, Tailwind 4.x, shadcn/ui
+- Implemented Biome for code quality and a reusable atomic-design component library
+- Shipped all features with thorough testing, PR reviews, and enterprise-grade standards
+
+___
 
 **Freelance: Senior Fullstack Engineer** (2023-2025)
 
