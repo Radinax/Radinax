@@ -30,7 +30,7 @@ I'm Adrian Beria a Senior Frontend Web Developer with **10 years of experience**
 
 <h2 align="center">Profesional Experience</h2>
 
-**AGILITY ADS: Senior Frontend Engineer** (2023-2025)
+**AGILITY ADS: Senior Frontend Engineer** (2025-2026)
 
 **Stack**: React, Typescript, Tailwind, Shadcn, Golang, AI Workflows, Claude Code, MCP, Vite
 
