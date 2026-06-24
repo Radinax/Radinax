@@ -34,27 +34,31 @@ I'm Adrian Beria a Senior Frontend Web Developer with **10 years of experience**
 
 **Stack**: React, Typescript, Tailwind, Shadcn, Golang, AI Workflows, Claude Code, MCP, Vite
 
-Working on the frontend development for Agility Ads’ enterprise advertising platform, delivering 35+ production features and contributing 14,000+ lines of production code across core product areas.
+Frontend engineer on 𝐀𝐠𝐢𝐥𝐢𝐭𝐲 𝐀𝐝𝐬 enterprise advertising platform (React 19, TypeScript, TanStack Router, SWR, Tailwind 4, shadcn/ui). Shipped 100+ production features across forecasting, creative, targeting, and billing.
 
-𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 & 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬
+𝐓𝐞𝐬𝐭𝐢𝐧𝐠 & 𝐪𝐮𝐚𝐥𝐢𝐭𝐲 𝐟𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧
 
-- Built interactive forecasting dashboards with custom Recharts visualizations
-- Developed Excel-style spreadsheet interface with advanced table operations
-- Implemented real-time scenario modeling, sorting/filtering, and UX controls for financial planning
+- Stood up the platform's testing foundation from zero — Vitest, a renderWithProviders + MSW harness, and unit / integration / component / E2E (Playwright) coverage of the core flows
+- Built self-cleaning E2E fixtures and a CI gate (Vitest on every PR + diff-coverage comments); authored the team's testing conventions and the "every PR ships tests" standard
 
-𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦
+𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 & 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬
 
-- Architected end-to-end creative brief workflow with AI-assisted content generation
-- Built intelligent multi-format image resizing and dynamic asset preview systems
-- Implemented PDF export capabilities and migrated UI schema for multi-channel creative support
+- Translated vague requirements into a shipped forecasting product — diagnosing the need the team couldn't articulate, then building Recharts dashboards, real-time scenario modeling, and a reusable KPI-card system
+- Migrated the legacy D3 charting to shared chart primitives; added Excel export and advanced table ops
 
-𝐆𝐞𝐨𝐟𝐞𝐧𝐜𝐢𝐧𝐠 & 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧 𝐓𝐨𝐨𝐥𝐬
+𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 & 𝐀𝐈
 
-- Developed interactive geofencing interface with multi-shape editing and batch management
-- Integrated Google Maps API for location search, targeting constraints, and map-based workflows
-- Persona & Campaign Features
-- Built contextual ad preview experiences across user journeys
-- Developed persona targeting tools, value-prop selectors, and creative collection management flows
+- Architected an end-to-end creative-brief workflow with AI-assisted content generation, multi-format image resizing, asset previews, PDF export, and a multi-channel creative schema
+
+𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐬 & 𝐭𝐚𝐫𝐠𝐞𝐭𝐢𝐧𝐠
+
+- Built persona-targeting tools and value-proposition selectors; extracted a shared paginated-combobox used platform-wide
+- Integrated the Google Maps API for location search and targeting; contributed a typed per-campaign event log and the campaign-creation flow
+
+𝐁𝐢𝐥𝐥𝐢𝐧𝐠 & 𝐝𝐞𝐬𝐢𝐠𝐧 𝐬𝐲𝐬𝐭𝐞𝐦
+
+- Owned the entire billing frontend — overview, contracts, invoices, statements, and contract-scoped transactions — with print/PDF layouts; shipped ahead of the backend and aligned schemas as endpoints landed
+- Led migration of legacy components to the shadcn/ui design system + tokens; maintained the atomic-design library and enforced quality with Biome and PR reviews
 
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐈𝐦𝐩𝐚𝐜𝐭
 
